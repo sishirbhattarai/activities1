@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <body>
+        <h1>FLAVORS OF NEPAL</h1>
+        <img src="https://images.unsplash.com/photo-1529517986296-847580704921?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=200" alt="Cuisine">
+        <h2>Appetizer</h2>
+        <p>Few starters typical in Nepal</p>
+        <img src="https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80" alt="Momo">
+        <u1>
+            <li>Chicken Momo</li>
+            <li>Vegetable Momo</li>
+            <li>Lamb Momo</li>
+        </u1>
+    
+        <h2>Chicken Specialities</h2>
+        <img src="https://images.unsplash.com/photo-1565557623262-b51c2513a641?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80" alt="Chicken">
+        <u1>
+            <li>Chicken Curry</li>
+            <li>Chicken ko Jhol</li>
+            <li>Chicken Dahi</li>
+        </u1>
+    
+        <h3>Lamb Specialities</h3>
+        <img src="https://images.unsplash.com/photo-1534939561126-855b8675edd7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80" alt="Lamb">
+        <u1>
+            <li>Lamb Curry</li>
+            <li>Lamb ko Khol</li>
+            <li>Lamb Dahi</li>
+        </u1>
+    </body>
+    </html>
+</body>
+</html>
